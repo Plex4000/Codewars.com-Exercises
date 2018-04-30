@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2037
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FindMissingNumInPattern", "FindMissingNumInPattern\FindMissingNumInPattern.csproj", "{ABF7D85C-3DD6-4106-B986-B34CF69A29D7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ABF7D85C-3DD6-4106-B986-B34CF69A29D7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ABF7D85C-3DD6-4106-B986-B34CF69A29D7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ABF7D85C-3DD6-4106-B986-B34CF69A29D7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ABF7D85C-3DD6-4106-B986-B34CF69A29D7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D8DC1C5C-F8BF-41E9-9F7F-DA5D6A0AC37E}
+	EndGlobalSection
+EndGlobal
