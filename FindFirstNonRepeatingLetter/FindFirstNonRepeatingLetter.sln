@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2037
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FindFirstNonRepeatingLetter", "FindFirstNonRepeatingLetter\FindFirstNonRepeatingLetter.csproj", "{AAEDBE9D-0479-42D0-8EF4-5FF80CA71B9E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AAEDBE9D-0479-42D0-8EF4-5FF80CA71B9E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AAEDBE9D-0479-42D0-8EF4-5FF80CA71B9E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AAEDBE9D-0479-42D0-8EF4-5FF80CA71B9E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AAEDBE9D-0479-42D0-8EF4-5FF80CA71B9E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5F84CADD-E364-4A4E-95BD-3C799BE9F3AB}
+	EndGlobalSection
+EndGlobal
